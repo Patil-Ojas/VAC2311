@@ -1,0 +1,22 @@
+[
+  {"name": "Dev", "age": 35, "city": "Chennai"},
+  {"name": "Hari", "age": 32, "city": "Pune"},
+  {"name": "Bhavya", "age": 30, "city": "Delhi"},
+  {"name": "Sanya", "age": 21, "city": "Ahmedabad"},
+  {"name": "Ishaan", "age": 29, "city": "Jaipur"},
+  {"name": "Qamar", "age": 34, "city": "Kanpur"},
+  {"name": "Neha", "age": 36, "city": "Indore"},
+  {"name": "Esha", "age": 22, "city": "Bangalore"},
+  {"name": "Jaya", "age": 38, "city": "Lucknow"},
+  {"name": "Gauri", "age": 26, "city": "Ahmedabad"},
+  {"name": "Farhan", "age": 40, "city": "Hyderabad"},
+  {"name": "Omkar", "age": 23, "city": "Jaipur"},
+  {"name": "Preeti", "age": 31, "city": "Surat"},
+  {"name": "Leela", "age": 33, "city": "Bhopal"},
+  {"name": "Raj", "age": 37, "city": "Nagpur"},
+  {"name": "Manish", "age": 27, "city": "Patna"},
+  {"name": "Kabir", "age": 24, "city": "Chandigarh"},
+  {"name": "Tushar", "age": 39, "city": "Lucknow"},
+  {"name": "Aarav", "age": 25, "city": "Mumbai"},
+  {"name": "Preeti", "age": 31, "city": "Surat"}
+]
